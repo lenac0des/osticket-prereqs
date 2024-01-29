@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-Hello, welcome to my explanation of osTicket Installation and Prerequisites.  Before diving in, we will have to create a Virtual machine (VM) using the Microsoft Azure portal (If you want to learn how to create a VM using the Azure portal, refer to my first tutorial). We will be using a VM, which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket." Afterwards, create a VM with 2-4 CPUs. In this example, I will be using 4 CPUs.
+Hello, welcome to my explanation of osTicket Installation and Prerequisites.  Before diving in, we will have to create a Virtual machine (VM) using the Microsoft Azure portal. We will be using a VM, which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket." Afterwards, create a VM with 2-4 CPUs. In this example, I will be using 4 CPUs.
 </p>
 <br />
 
